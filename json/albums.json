@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Utopia",
+        "artist" : "Travis Scott",
+        "cover" : "https://m.media-amazon.com/images/I/51nMgSxPQeL._UF1000,1000_QL80_.jpg"
+    },
+    {
+        "name": "More Life",
+        "artist" : "Drake",
+        "cover" : "https://i.scdn.co/image/ab67616d0000b2734f0fd9dad63977146e685700"
+    },
+    {
+        "name": "American Dream",
+        "artist" : "21 Savage",
+        "cover" : "https://i.scdn.co/image/ab67616d00001e02bbdceba2bf1867d4966d0347"
+    },
+    {
+        "name": "Heroes & Villains",
+        "artist" : "Metro Boomin",
+        "cover" : "https://i.scdn.co/image/ab67616d0000b273c4fee55d7b51479627c31f89"
+    },
+    {
+        "name": "Come Home the Kids Miss You",
+        "artist" : "Jack Harlow",
+        "cover" : "https://i.scdn.co/image/ab67616d0000b2738e55edb69ca44a25b52b17bb"
+    },
+    {
+        "name": "Mr. Morale & the Big Steppers",
+        "artist" : "Kendrick Lamar",
+        "cover" : "https://i.scdn.co/image/ab67616d0000b2732e02117d76426a08ac7c174f"
+    }
+]
